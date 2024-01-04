@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MaitakePokeGotcha/static/css/main.e6c13ad2.css",
-    "main.js": "/MaitakePokeGotcha/static/js/main.fb51eb54.js",
+    "main.js": "/MaitakePokeGotcha/static/js/main.9d6fd4b8.js",
     "static/js/787.282e847b.chunk.js": "/MaitakePokeGotcha/static/js/787.282e847b.chunk.js",
     "index.html": "/MaitakePokeGotcha/index.html",
     "main.e6c13ad2.css.map": "/MaitakePokeGotcha/static/css/main.e6c13ad2.css.map",
-    "main.fb51eb54.js.map": "/MaitakePokeGotcha/static/js/main.fb51eb54.js.map",
+    "main.9d6fd4b8.js.map": "/MaitakePokeGotcha/static/js/main.9d6fd4b8.js.map",
     "787.282e847b.chunk.js.map": "/MaitakePokeGotcha/static/js/787.282e847b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fb51eb54.js"
+    "static/js/main.9d6fd4b8.js"
   ]
 }
